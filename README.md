@@ -52,7 +52,7 @@ The repository includes:
 
 The complete Arduino code is available in this repository:
 
-📂 `YOUR_FILE_NAME.ino`
+📂 `color_checker_code.ino`
 
 ### How to Upload
 
@@ -66,14 +66,13 @@ The complete Arduino code is available in this repository:
 ## 📷 Project Images
 
 ### 🔹 Real Circuit Setup
-![Real Circuit](photo_2026-02-17_09-28-51)
+![Real Circuit](photo_2026-02-17_09-28-51.png)
 
 ### 🔹 EasyEDA Schematic
-![EasyEDA Schematic](Screenshot 2026-02-14 200129)
+![EasyEDA Schematic](Screenshot 2026-02-14 200129.png)
 
 ### 🔹 Fusion 360 Design
-![Fusion 360 Design](Screenshot 2026-02-17 093553)
-![Fusion 360 Design](Screenshot 2026-02-17 093518)
+![Fusion 360 Design](Screenshot 2026-02-17 093553.png)
 ---
 
 ## 📂 Recommended Repository Structure
