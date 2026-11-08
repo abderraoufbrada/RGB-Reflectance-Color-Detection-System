@@ -3,7 +3,7 @@
 **Design and Implementation of a Sequential RGB Illumination and LDR-Based Color Classification System**
 
 <p align="center">
-  <img src="images/project-banner.png" alt="RGB Color Detection System" width="800">
+  <img src="photo_2026-02-17_09-28-51.jpg" alt="RGB Color Detection System" width="800">
 </p>
 
 <p align="center">
