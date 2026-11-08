@@ -428,7 +428,7 @@ Electronics and Sensors Engineering Student
 Interested in analog electronics, sensor systems, instrumentation, and robotics.
 
 - GitHub: [abderraoufbrada](https://github.com/abderraoufbrada)
-- LinkedIn: [Abderraouf Brada]([https://www.linkedin.com/in/abderraouf-brada-16bab632a/](https://www.linkedin.com/in/abderraouf-brada-16bab632a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- LinkedIn: [Abderraouf Brada](https://www.linkedin.com/in/abderraouf-brada-16bab632a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
