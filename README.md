@@ -173,7 +173,7 @@ The three LEDs are controlled independently by the ESP32, allowing sequential ac
 The LDR and its voltage-divider resistor provide an analog signal to the ESP32.
 
 <p align="center">
-  <img src="images/easyeda-schematic.png" alt="EasyEDA Circuit Schematic" width="850">
+  <img src="Screenshot 2026-02-14 200129.png" alt="EasyEDA Circuit Schematic" width="850">
 </p>
 
 *Figure: Electronic circuit schematic designed using EasyEDA.*
@@ -196,10 +196,10 @@ The geometrical arrangement is intended to provide a consistent illumination and
 This mechanical design is an important part of the project because the relative positions of the light sources, detector, and target influence the reflected-light measurements.
 
 <p align="center">
-  <img src="images/fusion360-design-1.png"
+  <img src="Screenshot 2026-02-17 093553.png"
        alt="RGB Sensor Enclosure – Isometric View"
        width="48%">
-  <img src="images/fusion360-design-2.png"
+  <img src="Screenshot 2026-02-17 093518.png"
        alt="RGB Sensor Enclosure – Second View"
        width="48%">
 </p>
@@ -428,7 +428,7 @@ Electronics and Sensors Engineering Student
 Interested in analog electronics, sensor systems, instrumentation, and robotics.
 
 - GitHub: [abderraoufbrada](https://github.com/abderraoufbrada)
-- LinkedIn: [Abderraouf Brada](https://www.linkedin.com/in/abderraouf-brada-16bab632a/)
+- LinkedIn: [Abderraouf Brada]([https://www.linkedin.com/in/abderraouf-brada-16bab632a/](https://www.linkedin.com/in/abderraouf-brada-16bab632a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
