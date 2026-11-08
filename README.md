@@ -196,10 +196,17 @@ The geometrical arrangement is intended to provide a consistent illumination and
 This mechanical design is an important part of the project because the relative positions of the light sources, detector, and target influence the reflected-light measurements.
 
 <p align="center">
-  <img src="images/fusion360-design.png" alt="Custom RGB Sensor Enclosure Designed in Fusion 360" width="850">
+  <img src="images/fusion360-design-1.png"
+       alt="RGB Sensor Enclosure – Isometric View"
+       width="48%">
+  <img src="images/fusion360-design-2.png"
+       alt="RGB Sensor Enclosure – Second View"
+       width="48%">
 </p>
 
-*Figure: 3D mechanical design of the RGB illumination and LDR sensing assembly.*
+<p align="center">
+  <em>Figure: 3D mechanical design of the RGB illumination and LDR sensing assembly, shown from two different views.</em>
+</p>
 
 ## 7. Software Implementation
 
